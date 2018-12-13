@@ -1,0 +1,587 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-12-13T01:47:36.330-05:00
+  initializedAtString: 2018-12-13T01:47:36.330-05:00
+  log:
+  - commitID: 2e10445ea90544a651a9710a79daede75f481330
+    mergeA: 
+    mergeB: 
+    authorName: Nicholas Newton
+    authorEmail: nicholasnewton27@yahoo.com
+    commitEmail: nicholasnewton27@yahoo.com
+    commitName: Nicholas Newton
+    summary: scnee done
+    description: scnee done
+    timeString: 2018-12-13T01:39:29.000-05:00
+    commitTimeString: 2018-12-13T01:39:29.000-05:00
+    changes:
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Scenes\SampleScene.unity
+      projectPath: ..\Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: b10146f670b6c772dd5915cfc3bd987f5841f86e
+    mergeA: 
+    mergeB: 
+    authorName: Nicholas Newton
+    authorEmail: nicholasnewton27@yahoo.com
+    commitEmail: nicholasnewton27@yahoo.com
+    commitName: Nicholas Newton
+    summary: done
+    description: done
+    timeString: 2018-12-13T01:35:35.000-05:00
+    commitTimeString: 2018-12-13T01:35:35.000-05:00
+    changes:
+    - path: Assets\NumberWizard.cs
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\NumberWizard.cs
+      projectPath: ..\Assets\NumberWizard.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\QualitySettings.asset
+      projectPath: ..\ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ..\ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 88aa98f8ed42966d86f36286bcc12bf62f013ba8
+    mergeA: 
+    mergeB: 
+    authorName: Nicholas Newton
+    authorEmail: nicholasnewton27@yahoo.com
+    commitEmail: nicholasnewton27@yahoo.com
+    commitName: Nicholas Newton
+    summary: gkldfmng
+    description: gkldfmng
+    timeString: 2018-12-12T14:39:54.000-05:00
+    commitTimeString: 2018-12-12T14:39:54.000-05:00
+    changes:
+    - path: Assets\NumberWizard.cs
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\NumberWizard.cs
+      projectPath: ..\Assets\NumberWizard.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\NumberWizard.cs.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\NumberWizard.cs.meta
+      projectPath: ..\Assets\NumberWizard.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins.meta
+      projectPath: ..\Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub.meta
+      projectPath: ..\Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: ..\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: ..\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: ..\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: ..\Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: ..\Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: ..\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: ..\Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: ..\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Scenes.meta
+      projectPath: ..\Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Scenes\SampleScene.unity
+      projectPath: ..\Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\Scenes\SampleScene.unity.meta
+      projectPath: ..\Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Packages\manifest.json
+      projectPath: ..\Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\AudioManager.asset
+      projectPath: ..\ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\ClusterInputManager.asset
+      projectPath: ..\ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\DynamicsManager.asset
+      projectPath: ..\ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ..\ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\EditorSettings.asset
+      projectPath: ..\ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\GraphicsSettings.asset
+      projectPath: ..\ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\InputManager.asset
+      projectPath: ..\ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\NavMeshAreas.asset
+      projectPath: ..\ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\NetworkManager.asset
+      projectPath: ..\ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\Physics2DSettings.asset
+      projectPath: ..\ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\PresetManager.asset
+      projectPath: ..\ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\ProjectSettings.asset
+      projectPath: ..\ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\ProjectVersion.txt
+      projectPath: ..\ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\QualitySettings.asset
+      projectPath: ..\ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\TagManager.asset
+      projectPath: ..\ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\TimeManager.asset
+      projectPath: ..\ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ..\ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: bda1112ded3a06d2068b0057b8f4b73c68eb148e
+    mergeA: 
+    mergeB: 
+    authorName: Nicholas Newton
+    authorEmail: nicholasnewton27@yahoo.com
+    commitEmail: nicholasnewton27@yahoo.com
+    commitName: Nicholas Newton
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-12-12T14:39:12.000-05:00
+    commitTimeString: 2018-12-12T14:39:12.000-05:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\NicholasNewton\Documents\GitHub\Udemy\Assets\.gitignore
+      projectPath: ..\Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
